@@ -1,0 +1,6 @@
+*.txt
+*.pptx
+*.exe
+*.class
+*.jar
+tmp/
